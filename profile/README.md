@@ -1,7 +1,7 @@
 ## Hola hola 👋
 
 📦 Pruebas de Software | UTFSM – INF331
-Repositorio colaborativo de proyectos de estudiantes de la asignatura INF331 - Testing de Software de la Universidad Técnica Federico Santa María.
+Repositorio OpenSource de proyectos de estudiantes de la asignatura INF331 - Testing de Software de la Universidad Técnica Federico Santa María.
 
 🎯 Nuestra misión: aprender haciendo.
 
