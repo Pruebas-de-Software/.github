@@ -10,6 +10,6 @@ Repositorio OpenSource de proyectos de estudiantes de la asignatura INF331 - Tes
 🚀 Cada semestre los estudiantes desarrollan aplicaciones web desde cero, integrando pruebas como parte central del proceso de desarrollo.
 
 ### Contenido
-- Ejercicios de validación y verficación
+- Validación y Verficación
 - Proyecto del curso CI/CD, HandsOnProject
 - Pruebas Unitarias  
