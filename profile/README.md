@@ -13,7 +13,7 @@ Repositorio OpenSource de proyectos de estudiantes de la asignatura INF331 - Tes
 - [Validación y Verficación](https://github.com/Pruebas-de-Software/VerificacionVsValidacion)
 - [Proyecto del curso CI/CD, HandsOnProject](https://github.com/Pruebas-de-Software/HandsOnProject)
 - Pruebas Unitarias
-    - JUnit Máquina de café
+    - JUnit máquina de café
     - Junit simulador de cajero automático: versión 1, versión2
 - BDD: Cucumber Hello World
 - TDD: Caso Básico
