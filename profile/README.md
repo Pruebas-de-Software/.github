@@ -30,8 +30,8 @@ Introducción al testing de unidades de software, comenzando con ejemplos práct
 
 - **Junit simulador de cajero automático**  
   Ejercicio de pruebas unitarias modelando operaciones de un cajero automático:
-  - [Versión 1](#): Simulación de retiro de efectivo y validación de saldo.
-  - [Versión 2](#): Simulación de retiro de efectivo y validación de saldo.
+  - [>> Versión 1](https://github.com/Pruebas-de-Software/JUnit-Retiro-Deposito-Cuenta-Bancaria): Simulación de retiro de efectivo y validación de saldo.
+  - [>> Versión 2](https://github.com/Pruebas-de-Software/JUnit-Retiros-y-Depositos): Simulación de retiro de efectivo y validación de saldo.
 
 ## 🔹 BDD: Cucumber Hello World
 Primer contacto con BDD (Behavior Driven Development) utilizando **Cucumber**. Modelar comportamientos de negocio de forma entendible por todos los participantes de un proyecto.
