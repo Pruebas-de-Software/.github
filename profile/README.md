@@ -9,11 +9,33 @@ Repositorio OpenSource de proyectos de estudiantes de la asignatura INF331 - Tes
 
 🚀 Cada semestre los estudiantes desarrollan aplicaciones web desde cero, integrando pruebas como parte central del proceso de desarrollo.
 
-### Contenido
-- [Validación y Verficación](https://github.com/Pruebas-de-Software/VerificacionVsValidacion)
-- [Proyecto del curso CI/CD, HandsOnProject](https://github.com/Pruebas-de-Software/HandsOnProject)
-- Pruebas Unitarias
-    - JUnit máquina de café
-    - Junit simulador de cajero automático: versión 1, versión2
-- BDD: Cucumber Hello World
-- TDD: Caso Básico
+# 📚 Contenido
+
+## 🔹 Validación y Verificación
+Conceptos fundamentales de calidad de software. Introducción a los procesos de asegurar que un producto cumple su propósito. 
+Enlaces a repositorios de ejercicios
+- [>> Validación y Verficación](https://github.com/Pruebas-de-Software/VerificacionVsValidacion)
+
+## 🔹 [Proyecto del curso CI/CD – HandsOnProject](#)
+Desarrollo progresivo de una aplicación web con prácticas reales de testing automatizado, integración continua (CI) y despliegue continuo (CD). Proyecto principal de la asignatura.
+- [>> Proyecto del curso CI/CD, HandsOnProject](https://github.com/Pruebas-de-Software/HandsOnProject)
+
+## 🔹 [Pruebas Unitarias](#)
+Introducción al testing de unidades de software, comenzando con ejemplos prácticos en Java y Python.
+
+- **JUnit máquina de café**  
+  Ejercicio de pruebas unitarias que simula el comportamiento de una máquina expendedora de café, enfocándose en la validación de escenarios normales y fallidos.
+
+- **Junit simulador de cajero automático**  
+  Ejercicio de pruebas unitarias modelando operaciones de un cajero automático:
+  - [Versión 1](#): Simulación de retiro de efectivo y validación de saldo.
+  - [Versión 2](#): Simulación de retiro de efectivo y validación de saldo.
+
+## 🔹 [BDD: Cucumber Hello World](#)
+Primer contacto con BDD (Behavior Driven Development) utilizando **Cucumber**. Modelar comportamientos de negocio de forma entendible por todos los participantes de un proyecto.
+
+## 🔹 [TDD: Caso Básico](#)
+Aplicación de la metodología **Test Driven Development** (Desarrollo guiado por pruebas) a un problema sencillo, reforzando la importancia de construir primero las pruebas antes del código.
+
+
+> 🚧 Estamos permanentemente agregando más proyectos, ejemplos y prácticas de testing.
