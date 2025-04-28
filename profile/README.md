@@ -14,10 +14,12 @@ Repositorio OpenSource de proyectos de estudiantes de la asignatura INF331 - Tes
 ## 🔹 Validación y Verificación
 Conceptos fundamentales de calidad de software. Introducción a los procesos de asegurar que un producto cumple su propósito. 
 Enlaces a repositorios de ejercicios
+
 - [>> Validación y Verficación](https://github.com/Pruebas-de-Software/VerificacionVsValidacion)
 
 ## 🔹 [Proyecto del curso CI/CD – HandsOnProject](#)
 Desarrollo progresivo de una aplicación web con prácticas reales de testing automatizado, integración continua (CI) y despliegue continuo (CD). Proyecto principal de la asignatura.
+
 - [>> Proyecto del curso CI/CD, HandsOnProject](https://github.com/Pruebas-de-Software/HandsOnProject)
 
 ## 🔹 [Pruebas Unitarias](#)
