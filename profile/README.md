@@ -17,12 +17,12 @@ Enlaces a repositorios de ejercicios
 
 - [>> Validación y Verficación](https://github.com/Pruebas-de-Software/VerificacionVsValidacion)
 
-## 🔹 [Proyecto del curso CI/CD – HandsOnProject](#)
+## 🔹 Proyecto del curso CI/CD – HandsOnProject
 Desarrollo progresivo de una aplicación web con prácticas reales de testing automatizado, integración continua (CI) y despliegue continuo (CD). Proyecto principal de la asignatura.
 
 - [>> Proyecto del curso CI/CD, HandsOnProject](https://github.com/Pruebas-de-Software/HandsOnProject)
 
-## 🔹 [Pruebas Unitarias](#)
+## 🔹 Pruebas Unitarias
 Introducción al testing de unidades de software, comenzando con ejemplos prácticos en Java y Python.
 
 - **JUnit máquina de café**  
@@ -33,10 +33,10 @@ Introducción al testing de unidades de software, comenzando con ejemplos práct
   - [Versión 1](#): Simulación de retiro de efectivo y validación de saldo.
   - [Versión 2](#): Simulación de retiro de efectivo y validación de saldo.
 
-## 🔹 [BDD: Cucumber Hello World](#)
+## 🔹 BDD: Cucumber Hello World
 Primer contacto con BDD (Behavior Driven Development) utilizando **Cucumber**. Modelar comportamientos de negocio de forma entendible por todos los participantes de un proyecto.
 
-## 🔹 [TDD: Caso Básico](#)
+## 🔹 TDD: Caso Básico
 Aplicación de la metodología **Test Driven Development** (Desarrollo guiado por pruebas) a un problema sencillo, reforzando la importancia de construir primero las pruebas antes del código.
 
 
