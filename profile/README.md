@@ -28,7 +28,7 @@ Introducción al testing de unidades de software, comenzando con ejemplos práct
 - **JUnit máquina de café**  
   Ejercicio de pruebas unitarias que simula el comportamiento de una máquina expendedora de café, enfocándose en la validación de escenarios normales y fallidos.
 
-  - [>> Máquina de café](https://github.com/Pruebas-de-Software/JUnit-Maquina-de-cafe): Simulación de retiro de efectivo y validación de saldo.
+  - [>> Máquina de café](https://github.com/Pruebas-de-Software/JUnit-Maquina-de-cafe): Simulador máquina de café.
 
 - **Junit simulador de cajero automático**  
   Ejercicio de pruebas unitarias modelando operaciones de un cajero automático:
