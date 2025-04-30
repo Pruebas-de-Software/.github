@@ -20,6 +20,8 @@ Enlaces a repositorios de ejercicios
 ## 🔹 Proyecto del curso CI/CD – HandsOnProject
 Desarrollo progresivo de una aplicación web con prácticas reales de testing automatizado, integración continua (CI) y despliegue continuo (CD). Proyecto principal de la asignatura.
 
+Acá podrás ver los repositorios de los proyectos, videos de los entregables, videos de las presentaciones en vivo, documentación, código, lecciones aprendidas y mucho testing en acción.
+
 - [>> Proyecto del curso CI/CD, HandsOnProject](https://github.com/Pruebas-de-Software/HandsOnProject)
 
 ## 🔹 Pruebas Unitarias
