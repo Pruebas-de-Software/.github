@@ -14,7 +14,7 @@ Repositorio OpenSource de proyectos de estudiantes de la asignatura INF331 - Tes
 ## 🔹 Proyecto del curso CI/CD – HandsOnProject
 Desarrollo progresivo de una aplicación web con prácticas reales de testing automatizado, integración continua (CI) y despliegue continuo (CD). Proyecto principal de la asignatura.
 
-Acá podrás ver los repositorios de los proyectos de los estudiantes, camadas de developers con super poderes en testing, videos de los entregables, videos de las presentaciones en vivo, documentación, código, lecciones aprendidas y mucho testing en acción.
+Acá podrás ver los repositorios de los proyectos de los estudiantes, camadas de developers con super poderes en testing, videos de los entregables, videos de las presentaciones en vivo, documentación, código OpenSource, problemas en proyectos, proyectos exitosos, lecciones aprendidas y mucho testing en acción.
 
 - [>> Proyecto del curso CI/CD, HandsOnProject](https://github.com/Pruebas-de-Software/HandsOnProject)
 
