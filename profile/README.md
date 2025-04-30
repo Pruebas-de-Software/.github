@@ -48,5 +48,8 @@ Aplicación de la metodología **Test Driven Development** (Desarrollo guiado po
 
 - [>> TDD Unit Test](https://github.com/Pruebas-de-Software/Unittest-Basico)
 
+## 🔹 Testing aumentado con Inteligencia Artificial
+
+- [>> AI-augmented testing](#)
 
 > 🚧 Estamos permanentemente agregando más proyectos, ejemplos y prácticas de testing.
