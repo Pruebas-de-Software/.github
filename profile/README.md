@@ -1,3 +1,7 @@
+![mashmellow](https://github.com/Pruebas-de-Software/HandsOnProject/blob/main/material/logoUSM.png)
+![curso20242](https://github.com/Pruebas-de-Software/HandsOnProject/blob/main/material/logoUSM.png)
+![logousm](https://github.com/Pruebas-de-Software/HandsOnProject/blob/main/material/logoUSM.png)
+
 ## Hola hola 👋
 
 📦 Pruebas de Software | UTFSM – INF331
