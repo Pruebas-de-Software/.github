@@ -1,4 +1,4 @@
-![mashmellow](https://github.com/Pruebas-de-Software/HandsOnProject/blob/main/material/logoUSM.png)
+![marshmellow](https://github.com/Pruebas-de-Software/HandsOnProject/blob/main/material/marshmellow.png)
 ![curso20242](https://github.com/Pruebas-de-Software/HandsOnProject/blob/main/material/curso20232.png)
 ![logousm](https://github.com/Pruebas-de-Software/HandsOnProject/blob/main/material/logoUSM.png)
 
