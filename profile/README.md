@@ -30,6 +30,7 @@ Enlaces a repositorios de ejercicios
 
 - [>> Validación y Verficación](https://github.com/Pruebas-de-Software/VerificacionVsValidacion)
 
+
 ## 🔹 Pruebas Unitarias
 Introducción a Unit Testing, comenzando con ejemplos prácticos en Java y Python.
 
@@ -38,19 +39,22 @@ Introducción a Unit Testing, comenzando con ejemplos prácticos en Java y Pytho
 
   - [>> Máquina de café](https://github.com/Pruebas-de-Software/JUnit-Maquina-de-cafe): Simulador máquina de café.
 
-- **Junit simulador de cajero automático**  
+- **JUnit simulador de cajero automático**  
   Ejercicio de pruebas unitarias modelando operaciones de un cajero automático:
   
   - [>> Versión 1](https://github.com/Pruebas-de-Software/JUnit-Retiro-Deposito-Cuenta-Bancaria): Simulación de retiro de efectivo y validación de saldo.
   - [>> Versión 2](https://github.com/Pruebas-de-Software/JUnit-Retiros-y-Depositos): Simulación de retiro de efectivo y validación de saldo.
+
 
 ## 🔹 Behavior Driven Development (BDD)
 **BDD (Behavior-Driven Development)** es una metodología de desarrollo de software que se centra en la comunicación y colaboración entre desarrolladores, testters y stakeholders, utilizando un lenguaje natural para describir el comportamiento de una aplicación. Este enfoque mejora la comprensión mutua y garantiza que el software cumpla con las expectativas de los usuarios. 
 
 **Ejemplos**:
 
-- Cucumber Hello World Primer contacto con BDD (Behavior Driven Development) utilizando **Cucumber**. 
-  - [>> Hello World](https://github.com/Pruebas-de-Software/Cucumber-hello-world)
+- Cucumber Hello World Primer contacto con BDD (Behavior Driven Development) utilizando: 
+  -  **Java + Cucumber**: [>> Hello World (Java)](https://github.com/Pruebas-de-Software/Cucumber-hello-world)
+  -  **Python + Behave**: [>> Hello World (Behave)](https://github.com/Pruebas-de-Software/Behave-hello-world)
+
 
 ## 🔹 Test Driven Development (TDD) 
 **Test Driven Development** es una metodología de desarrollo de software donde se escriben las pruebas unitarias antes de escribir el código que las pasará. El objetivo es asegurar que el código cumple con las expectativas desde el principio y facilitar la detección y corrección de errores. 
@@ -59,6 +63,7 @@ Introducción a Unit Testing, comenzando con ejemplos prácticos en Java y Pytho
 
 - Caso Básico, aplicación de la metodología **Test Driven Development** (Desarrollo guiado por pruebas) a un problema sencillo, reforzando la importancia de construir primero las pruebas antes del código.
    - [>> TDD Unit Test](https://github.com/Pruebas-de-Software/Unittest-Basico)
+
 
 ## 🔹 Testing aumentado con Inteligencia Artificial
 
