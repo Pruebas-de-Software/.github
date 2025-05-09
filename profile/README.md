@@ -13,6 +13,8 @@ Repositorio OpenSource de proyectos de estudiantes de la asignatura INF331 - Tes
 
 🚀 Cada semestre los estudiantes desarrollan aplicaciones web desde cero, integrando pruebas como parte central del proceso de desarrollo.
 
+Repositorio complementario a Aula (aula.usm.cl)
+
 # 📚 Contenido
 
 ## 🔹 Proyecto del curso CI/CD – HandsOnProject
@@ -29,7 +31,7 @@ Enlaces a repositorios de ejercicios
 - [>> Validación y Verficación](https://github.com/Pruebas-de-Software/VerificacionVsValidacion)
 
 ## 🔹 Pruebas Unitarias
-Introducción al testing de unidades de software, comenzando con ejemplos prácticos en Java y Python.
+Introducción a Unit Testing, comenzando con ejemplos prácticos en Java y Python.
 
 - **JUnit máquina de café**  
   Ejercicio de pruebas unitarias que simula el comportamiento de una máquina expendedora de café, enfocándose en la validación de escenarios normales y fallidos.
@@ -42,15 +44,21 @@ Introducción al testing de unidades de software, comenzando con ejemplos práct
   - [>> Versión 1](https://github.com/Pruebas-de-Software/JUnit-Retiro-Deposito-Cuenta-Bancaria): Simulación de retiro de efectivo y validación de saldo.
   - [>> Versión 2](https://github.com/Pruebas-de-Software/JUnit-Retiros-y-Depositos): Simulación de retiro de efectivo y validación de saldo.
 
-## 🔹 BDD: Cucumber Hello World
-Primer contacto con BDD (Behavior Driven Development) utilizando **Cucumber**. Modelar comportamientos de negocio de forma entendible por todos los participantes de un proyecto.
+## 🔹 Behavior Driven Development (BDD)
+**BDD (Behavior-Driven Development)** es una metodología de desarrollo de software que se centra en la comunicación y colaboración entre desarrolladores, testters y stakeholders, utilizando un lenguaje natural para describir el comportamiento de una aplicación. Este enfoque mejora la comprensión mutua y garantiza que el software cumpla con las expectativas de los usuarios. 
 
-- [>> Hello World](https://github.com/Pruebas-de-Software/Cucumber-hello-world)
+**Ejemplos**:
 
-## 🔹 TDD: Caso Básico
-Aplicación de la metodología **Test Driven Development** (Desarrollo guiado por pruebas) a un problema sencillo, reforzando la importancia de construir primero las pruebas antes del código.
+- Cucumber Hello World Primer contacto con BDD (Behavior Driven Development) utilizando **Cucumber**. Modelar comportamientos de negocio de forma entendible por todos los participantes de un proyecto.
+  - [>> Hello World](https://github.com/Pruebas-de-Software/Cucumber-hello-world)
 
-- [>> TDD Unit Test](https://github.com/Pruebas-de-Software/Unittest-Basico)
+## 🔹 Test Driven Development (TDD) 
+**Test Driven Development** es una metodología de desarrollo de software donde se escriben las pruebas unitarias antes de escribir el código que las pasará. El objetivo es asegurar que el código cumple con las expectativas desde el principio y facilitar la detección y corrección de errores. 
+
+**Ejemplos**:
+
+- Caso Básico, aplicación de la metodología **Test Driven Development** (Desarrollo guiado por pruebas) a un problema sencillo, reforzando la importancia de construir primero las pruebas antes del código.
+   - [>> TDD Unit Test](https://github.com/Pruebas-de-Software/Unittest-Basico)
 
 ## 🔹 Testing aumentado con Inteligencia Artificial
 
