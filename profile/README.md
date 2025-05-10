@@ -69,6 +69,10 @@ Introducción a Unit Testing, comenzando con ejemplos prácticos en Java y Pytho
 
 - [>> AI-augmented testing](#)
 
+## 🔹 Testing de mutaciones
+
+- [>> Testing de mutaciones](#)
+
 ---
 
 > 🚧 Estamos permanentemente agregando más proyectos, ejemplos y prácticas de testing.
