@@ -67,12 +67,12 @@ Introducción a Unit Testing, comenzando con ejemplos prácticos en Java y Pytho
 
 ## 🔹 Testing aumentado con Inteligencia Artificial
 
-- [>> AI-augmented testing](#)
+- [>> AI-augmented testing](https://github.com/Pruebas-de-Software/supercharge-testing-with-ai)
 
 ## 🔹 Testing de mutaciones
 Las **pruebas de mutación** evalúan la eficacia del conjunto de pruebas insertando pequeñas fallas en los programas y midiendo la capacidad del conjunto de pruebas para detectarlas.
 
-- [>> Testing de mutaciones](https://github.com/Pruebas-de-Software/supercharge-testing-with-ai)
+- [>> Testing de mutaciones](#)
 
 ---
 
