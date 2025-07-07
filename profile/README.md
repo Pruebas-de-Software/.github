@@ -66,7 +66,7 @@ Introducción a Unit Testing, comenzando con ejemplos prácticos en Java y Pytho
 
 
 ## 🔹 Test Driven Development (TDD) 
-**Test Driven Development** es una metodología de desarrollo de software donde se escriben las pruebas unitarias antes de escribir el código que las pasará. El objetivo es asegurar que el código cumple con las expectativas desde el principio y facilitar la detección y corrección de errores. 
+**TDD (Test Driven Development)** es una metodología de desarrollo de software donde se escriben las pruebas unitarias antes de escribir el código que las pasará. El objetivo es asegurar que el código cumple con las expectativas desde el principio y facilitar la detección y corrección de errores. 
 
 **Ejemplos**:
 
