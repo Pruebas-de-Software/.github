@@ -61,8 +61,8 @@ Introducción a Unit Testing, comenzando con ejemplos prácticos en Java y Pytho
 **Ejemplos**:
 
 - Cucumber Hello World Primer contacto con BDD (Behavior Driven Development) utilizando: 
-  -  **Java + Cucumber**: [>> Hello World (Java)](https://github.com/Pruebas-de-Software/Cucumber-hello-world)
-  -  **Python + Behave**: [>> Hello World (Behave)](https://github.com/Pruebas-de-Software/Behave-hello-world)
+  -  **Java + Cucumber**: [>> Hello World (Java + Cucumber)](https://github.com/Pruebas-de-Software/Cucumber-hello-world)
+  -  **Python + Behave**: [>> Hello World (Python + Behave)](https://github.com/Pruebas-de-Software/Behave-hello-world)
 
 
 ## 🔹 Test Driven Development (TDD) 
