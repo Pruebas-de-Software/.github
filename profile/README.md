@@ -34,6 +34,10 @@ Enlaces a repositorios de ejercicios
 ## 🔹 Pruebas Unitarias
 Introducción a Unit Testing, comenzando con ejemplos prácticos en Java y Python.
 
+- [>> Unit Test](https://github.com/Pruebas-de-Software/PruebasUnitarias/tree/main)
+
+### Ejemplos:
+
 - **JUnit máquina de café**  
   Ejercicio de pruebas unitarias que simula el comportamiento de una máquina expendedora de café, enfocándose en la validación de escenarios normales y fallidos.
 
