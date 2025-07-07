@@ -75,6 +75,7 @@ Introducción a Unit Testing, comenzando con ejemplos prácticos en Java y Pytho
 
 
 ## 🔹 Testing aumentado con Inteligencia Artificial
+La ingeniería de software moderna exige ciclos de entrega cada vez más rápidos y rigurosos. Al integrar IA generativa y prácticas de prompt engineering con testing automatizado y herramientas de última generación, ampliamos la cobertura y reducimos el tiempo de detección de defectos sin sacrificar la calidad
 
 - [>> AI-augmented testing](https://github.com/Pruebas-de-Software/supercharge-testing-with-ai)
 
