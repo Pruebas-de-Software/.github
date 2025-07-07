@@ -45,6 +45,11 @@ Introducción a Unit Testing, comenzando con ejemplos prácticos en Java y Pytho
   - [>> Versión 1](https://github.com/Pruebas-de-Software/JUnit-Retiro-Deposito-Cuenta-Bancaria): Simulación de retiro de efectivo y validación de saldo.
   - [>> Versión 2](https://github.com/Pruebas-de-Software/JUnit-Retiros-y-Depositos): Simulación de retiro de efectivo y validación de saldo.
 
+ - **JUnit Tarjeta de Fidelidad Gamificada**  
+   Sistema que gestiona programa de fidelidad para una cadena de tiendas:
+  
+   - [>> Tarjeta de Fidelidad](https://github.com/Pruebas-de-Software/PruebasUnitarias/blob/main/tarjetagamificada.md): Tarjeta de Fidelidad Gamificada.
+
 
 ## 🔹 Behavior Driven Development (BDD)
 **BDD (Behavior-Driven Development)** es una metodología de desarrollo de software que se centra en la comunicación y colaboración entre desarrolladores, testters y stakeholders, utilizando un lenguaje natural para describir el comportamiento de una aplicación. Este enfoque mejora la comprensión mutua y garantiza que el software cumpla con las expectativas de los usuarios. 
