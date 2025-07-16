@@ -22,37 +22,37 @@ Desarrollo progresivo de una aplicación web con prácticas reales de testing au
 
 Acá podrás ver los repositorios de los proyectos de los estudiantes, camadas de developers con super poderes en testing, videos de los entregables, videos de las presentaciones en vivo, documentación, código OpenSource, problemas en proyectos, proyectos exitosos, lecciones aprendidas y mucho testing en acción.
 
-- [>> Proyecto del curso CI/CD, HandsOnProject](https://github.com/Pruebas-de-Software/HandsOnProject)
+- [⮞ Proyecto del curso CI/CD, HandsOnProject](https://github.com/Pruebas-de-Software/HandsOnProject)
 
 ## 🔹 Validación y Verificación
 Conceptos fundamentales de calidad de software. Introducción a los procesos de asegurar que un producto cumple su propósito. 
 Enlaces a repositorios de ejercicios
 
-- [>> Validación y Verficación](https://github.com/Pruebas-de-Software/VerificacionVsValidacion)
+- [⮞ Validación y Verficación](https://github.com/Pruebas-de-Software/VerificacionVsValidacion)
 
 
 ## 🔹 Pruebas Unitarias
 Introducción a Unit Testing, comenzando con ejemplos prácticos en Java y Python.
 
-- [>> Unit Test](https://github.com/Pruebas-de-Software/PruebasUnitarias/tree/main)
+- [⮞ Unit Test](https://github.com/Pruebas-de-Software/PruebasUnitarias/tree/main)
 
 ### Ejemplos:
 
 - **JUnit máquina de café**  
   Ejercicio de pruebas unitarias que simula el comportamiento de una máquina expendedora de café, enfocándose en la validación de escenarios normales y fallidos.
 
-  - [>> Máquina de café](https://github.com/Pruebas-de-Software/JUnit-Maquina-de-cafe): Simulador máquina de café.
+  - [⮞ Máquina de café](https://github.com/Pruebas-de-Software/JUnit-Maquina-de-cafe): Simulador máquina de café.
 
 - **JUnit simulador de cajero automático**  
   Ejercicio de pruebas unitarias modelando operaciones de un cajero automático:
   
-  - [>> Versión 1](https://github.com/Pruebas-de-Software/JUnit-Retiro-Deposito-Cuenta-Bancaria): Simulación de retiro de efectivo y validación de saldo.
-  - [>> Versión 2](https://github.com/Pruebas-de-Software/JUnit-Retiros-y-Depositos): Simulación de retiro de efectivo y validación de saldo.
+  - [⮞ Versión 1](https://github.com/Pruebas-de-Software/JUnit-Retiro-Deposito-Cuenta-Bancaria): Simulación de retiro de efectivo y validación de saldo.
+  - [⮞ Versión 2](https://github.com/Pruebas-de-Software/JUnit-Retiros-y-Depositos): Simulación de retiro de efectivo y validación de saldo.
 
  - **JUnit Tarjeta de Fidelidad Gamificada**  
    Sistema que gestiona programa de fidelidad para una cadena de tiendas:
   
-   - [>> Tarjeta de Fidelidad](https://github.com/Pruebas-de-Software/PruebasUnitarias/blob/main/tarjetagamificada.md): Tarjeta de Fidelidad Gamificada.
+   - [⮞ Tarjeta de Fidelidad](https://github.com/Pruebas-de-Software/PruebasUnitarias/blob/main/tarjetagamificada.md): Tarjeta de Fidelidad Gamificada.
 
 
 ## 🔹 Behavior Driven Development (BDD)
@@ -61,8 +61,8 @@ Introducción a Unit Testing, comenzando con ejemplos prácticos en Java y Pytho
 **Ejemplos**:
 
 - Cucumber Hello World Primer contacto con BDD (Behavior Driven Development) utilizando: 
-  -  **Java + Cucumber**: [>> Hello World (Java + Cucumber)](https://github.com/Pruebas-de-Software/Cucumber-hello-world)
-  -  **Python + Behave**: [>> Hello World (Python + Behave)](https://github.com/Pruebas-de-Software/Behave-hello-world)
+  -  **Java + Cucumber**: [⮞ Hello World (Java + Cucumber)](https://github.com/Pruebas-de-Software/Cucumber-hello-world)
+  -  **Python + Behave**: [⮞ Hello World (Python + Behave)](https://github.com/Pruebas-de-Software/Behave-hello-world)
 
 
 ## 🔹 Test Driven Development (TDD) 
@@ -71,18 +71,18 @@ Introducción a Unit Testing, comenzando con ejemplos prácticos en Java y Pytho
 **Ejemplos**:
 
 - Caso Básico, aplicación de la metodología **Test Driven Development** (Desarrollo guiado por pruebas) a un problema sencillo, reforzando la importancia de construir primero las pruebas antes del código.
-   - [>> TDD Unit Test](https://github.com/Pruebas-de-Software/Unittest-Basico)
+   - [⮞ TDD Unit Test](https://github.com/Pruebas-de-Software/Unittest-Basico)
 
 
 ## 🔹 Testing aumentado con Inteligencia Artificial
 La ingeniería de software moderna exige ciclos de entrega cada vez más rápidos y rigurosos. Al integrar IA generativa y prácticas de prompt engineering con testing automatizado y herramientas de última generación, ampliamos la cobertura y reducimos el tiempo de detección de defectos sin sacrificar la calidad
 
-- [>> AI-augmented testing](https://github.com/Pruebas-de-Software/supercharge-testing-with-ai)
+- [⮞ AI-augmented testing](https://github.com/Pruebas-de-Software/supercharge-testing-with-ai)
 
 ## 🔹 Testing de mutaciones
 Las **pruebas de mutación** evalúan la eficacia del conjunto de pruebas insertando pequeñas fallas en los programas y midiendo la capacidad del conjunto de pruebas para detectarlas.
 
-- [>> Testing de mutaciones](#)
+- [⮞ Testing de mutaciones](#)
 
 ---
 
