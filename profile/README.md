@@ -82,7 +82,7 @@ La ingeniería de software moderna exige ciclos de entrega cada vez más rápido
 ## 🔹 Testing de mutaciones
 Las **pruebas de mutación** evalúan la eficacia del conjunto de pruebas insertando pequeñas fallas en los programas y midiendo la capacidad del conjunto de pruebas para detectarlas.
 
-- [⮞ Testing de mutaciones](#)
+- [⮞ Testing de mutaciones: Ejemplo números primos](https://github.com/Pruebas-de-Software/mutation_testing_primos)
 
 ---
 
