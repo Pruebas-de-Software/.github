@@ -84,6 +84,9 @@ Las **pruebas de mutación** evalúan la eficacia del conjunto de pruebas insert
 
 - [⮞ Testing de mutaciones: Ejemplo utilidades matemáticas](https://github.com/Pruebas-de-Software/mutation_testing_math_utils)
 
+## 🔹 Guías de estudio (ISTQB)
+Material de estudio, preguntas de alternativas y presentaciones de la asignatura
+- [Guías y presentaciones](https://github.com/Pruebas-de-Software/material_estudio)
 ---
 
 > 🚧 Estamos permanentemente agregando más proyectos, ejemplos y prácticas de testing.
