@@ -92,4 +92,4 @@ Material de estudio, preguntas de alternativas y presentaciones de la asignatura
 
 > 🚧 Estamos permanentemente agregando más proyectos, ejemplos y prácticas de testing.
 
-2025 
+2026 
