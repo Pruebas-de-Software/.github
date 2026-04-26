@@ -54,6 +54,7 @@ Introducción a Unit Testing, comenzando con ejemplos prácticos en Java y Pytho
   
    - [⮞ Tarjeta de Fidelidad](https://github.com/Pruebas-de-Software/PruebasUnitarias/blob/main/tarjetagamificada.md): Tarjeta de Fidelidad Gamificada.
 
+## 🔹 Pruebas de Integración
 
 ## 🔹 Behavior Driven Development (BDD)
 **BDD (Behavior-Driven Development)** es una metodología de desarrollo de software que se centra en la comunicación y colaboración entre desarrolladores, testters y stakeholders, utilizando un lenguaje natural para describir el comportamiento de una aplicación. Este enfoque mejora la comprensión mutua y garantiza que el software cumpla con las expectativas de los usuarios. 
