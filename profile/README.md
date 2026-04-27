@@ -59,7 +59,7 @@ El API Testing (pruebas de API) es un tipo de prueba de software que verifica la
 
 **Ejemplos**
 - [Aplicación de gestión de Notas de texto (incluye Frontend y backend)](https://github.com/TalentoFuturo/FundamentosTestingAutomatizado/tree/main/misnotas)
-- [Implementación y Testing de una API de Gestión de Tareas con API Key y Swagger](https://github.com/Pruebas-de-Software/api_testing/blob/main/material/tarea_API.md)
+- [Implementación y Testing de una API de Gestión de Tareas con API Key y documentación API](https://github.com/Pruebas-de-Software/api_testing/blob/main/material/tarea_API.md)
 
 
 ## 🔹 Behavior Driven Development (BDD)
