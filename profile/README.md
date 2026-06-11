@@ -54,6 +54,11 @@ Introducción a Unit Testing, comenzando con ejemplos prácticos en Java y Pytho
   
    - [⮞ Tarjeta de Fidelidad](https://github.com/Pruebas-de-Software/PruebasUnitarias/blob/main/tarjetagamificada.md): Tarjeta de Fidelidad Gamificada.
 
+- **JUnit Biblioteca**  
+   Prestamo y devolución de libros (caso simple)
+  
+   - [>> Sistema de Biblioteca (caso simple)](https://github.com/Pruebas-de-Software/PruebasUnitarias/blob/main/biblioteca.md)
+
 ## 🔹 API Testing
 El API Testing (pruebas de API) es un tipo de prueba de software que verifica la funcionalidad, fiabilidad, rendimiento y seguridad de las interfaces de programación de aplicaciones (APIs). Consiste en enviar solicitudes (requests) a los puntos finales (endpoints) y validar que las respuestas (responses) sean correctas, seguras y rápidas. 
 
