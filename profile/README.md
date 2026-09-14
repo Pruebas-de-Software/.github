@@ -87,7 +87,7 @@ El API Testing (pruebas de API) es un tipo de prueba de software que verifica la
 
 
 ## 🔹 Testing aumentado con Inteligencia Artificial
-La ingeniería de software moderna exige ciclos de entrega cada vez más rápidos y rigurosos. Al integrar IA generativa y prácticas de prompt engineering con testing automatizado y herramientas de última generación, ampliamos la cobertura y reducimos el tiempo de detección de defectos sin sacrificar la calidad
+La ingeniería de software moderna exige ciclos de entrega cada vez más rápidos y rigurosos. Al integrar IA generativa y prácticas de prompt engineering con testing automatizado y herramientas de última generación, ampliamos la cobertura y reducimos el tiempo de detección de defectos sin sacrificar la calidad.
 
 - [⮞ AI-augmented testing](https://github.com/Pruebas-de-Software/supercharge-testing-with-ai)
 - [⮞ Superpowers ](https://github.com/Pruebas-de-Software/superpowers) es una metodología completa de desarrollo de software para tus agentes de codificación, construida sobre un conjunto de habilidades combinables y algunas instrucciones iniciales que garantizan que tu agente las utilice.
@@ -98,7 +98,7 @@ Las **pruebas de mutación** evalúan la eficacia del conjunto de pruebas insert
 - [⮞ Testing de mutaciones: Ejemplo utilidades matemáticas](https://github.com/Pruebas-de-Software/mutation_testing_math_utils)
 
 ## 🔹 Guías de estudio (ISTQB)
-Material de estudio, preguntas de alternativas y presentaciones de la asignatura
+Material de estudio, preguntas de alternativas y presentaciones de la asignatura.
 - [Guías y presentaciones](https://github.com/Pruebas-de-Software/material_estudio)
 ---
 
